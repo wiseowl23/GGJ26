@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Levels/Jam.umap",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/LPGenericPropsSet22/Meshes/ElectronicEquipment/Keyboards/SM_KeyboardSet01.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_PlayerGM.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_Player_PC.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/WBP_HUD.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/think__1_.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/think.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Dialogue/BPC_Dialogue.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/BPI_Interact.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/BP_Office_Drone.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Drones/BP_Office_Drone.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/BP_Computer.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/LPGenericPropsSet04/Materials/Generic/M_Generic.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/IA_Interact.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Input/IMC_Default.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/IA_Jump.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/WBP_SpeechBubble.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/thought-bubble.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_FirstPersonGameMode.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_FirstPersonCharacter.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_FirstPersonCameraManager.uasset",
+				"C:/Users/james/OneDrive/Documents/GitHub/GGJ26/GGJ2026/Content/Blueprints/Player/BP_Player.uasset"
+			]
+		}
+	]
+}
